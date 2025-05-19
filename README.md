@@ -24,3 +24,6 @@ Implemented methods:
 ```bash
 gcc numericalMethods.c -o numerical_methods -lm
 ./numerical_methods
+
+## 📄 Documentation
+For a detailed explanation of the algorithms, implementation details, and examples, see the [project report](numMethodsReport.pdf).
